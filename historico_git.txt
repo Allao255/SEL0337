@@ -1,0 +1,5 @@
+commit 30ebc564e0e351355cb80f77b43c171592d34861
+Author: Allao255 <danielpallao@usp.br>
+Date:   Mon Dec 8 14:56:08 2025 -0300
+
+    primeiro commit da disciplina :)
