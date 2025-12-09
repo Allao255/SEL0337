@@ -16,3 +16,4 @@ Após isso, foi criado um repositório remoto no GitHub, e a autenticação foi 
 Montagem utilizada
 
 A montagem consistiu na conexão de um LED e resistor à protoboard, ligados ao pino GPIO utilizado no script, conforme a imagem abaixo:
+![Protoboard com Montagem da Prática](pratica5.jpg) 
